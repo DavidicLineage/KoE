@@ -28,8 +28,8 @@ In this formalization, the parse rule is the same operation that generates the M
 ## Contents
 
 - `LICENSE` — Apache License 2.0
-- (forthcoming) Glyph reference tables for English, Hebrew, Greek, Arabic, and Phoenician
-- (forthcoming) Worked examples across scripts
+- (forthcoming) Glyph reference tables for English, Hebrew, Greek, Arabic, and Phoenician *ADDED
+- (forthcoming) Worked examples across scripts *ADDED
 - (forthcoming) Manuscript material from *Architect of Zion*, Chapter 1: Torque and Logos
 
 ## Status
