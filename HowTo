@@ -1,0 +1,7 @@
+To test a word:
+1. Write its letters in script order.
+2. Number positions according to reading direction.
+3. Apply the MEA order for length n.
+4. Group clutch / outer rails / inner pairs.
+5. Read roles from the script table.
+6. Ask whether the resulting torque profile is semantically coherent, arbitrary, or contradictory.
